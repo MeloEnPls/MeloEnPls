@@ -22,9 +22,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![ManageEngine](https://img.shields.io/badge/ManageEngine-00A300?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDA4MDAwIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjIgN2gtMi44N2MtLjExLTMuMDMtMi42Mi01LjUtNS43My01LjUtMi41MiAwLTQuNjMgMS42Mi01LjM5IDMuODNMLjY0IDguNzVhLjY5LjY5IDAgMCAwLS4xMS44OS42ODIuNjgyIDAgMCAwIC41NC4zNGgyLjI4TDEwIDkuODh2MS4wM2wtNS4wOSAzLjI2YS43LjcgMCAwIDAtLjMyLjU5di45OWw3LjQyLTQuNzUgMy41OCAyLjMxYS43LjcgMCAwIDAgLjY2LjA0LjczLjczIDAgMCAwIC4zNy0uNjR2LTEuNTJjMC0uMjYtLjEzLS41MS0uMzQtLjY2TDEzIDExLjVoLTJ2LS43MmwyLTJWM2g5djR6Ii8+PC9zdmc+)
-
 
 ### ☁️ Self-Hosted Tools & Services
 
