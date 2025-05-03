@@ -8,6 +8,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 📈 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MeloEnPls&show_icons=true&theme=tokyonight)
