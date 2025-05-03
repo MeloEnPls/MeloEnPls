@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### 📈 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MeloEnPls&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeloEnPls&layout=compact&theme=tokyonight)
