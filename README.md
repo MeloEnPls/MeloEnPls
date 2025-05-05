@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Andréa!
 
-🎓 I'm a system admin apprentice and IT student  
  
 ### 🧠 Tools & Technologies I Use
 
